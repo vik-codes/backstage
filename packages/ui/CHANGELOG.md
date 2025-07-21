@@ -1,5 +1,11 @@
 # @backstage/ui
 
+## 0.6.2-next.0
+
+### Patch Changes
+
+- e0e886f: Adds onTabSelectionChange to ui header component.
+
 ## 0.6.0
 
 ### Minor Changes

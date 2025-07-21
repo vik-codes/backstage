@@ -204,5 +204,13 @@
     "@backstage/plugin-user-settings-backend": "0.3.4",
     "@backstage/plugin-user-settings-common": "0.0.1"
   },
-  "changesets": []
+  "changesets": [
+    "blue-apples-pump",
+    "create-app-1753117907",
+    "hot-clowns-behave",
+    "huge-heads-occur",
+    "nice-actors-cheer",
+    "spotty-icons-shake",
+    "twenty-pumas-brush"
+  ]
 }
